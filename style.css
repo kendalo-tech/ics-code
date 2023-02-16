@@ -1,0 +1,48 @@
+body{
+  font_family: Oswald;
+}
+
+.photo{
+  margin-right: 5px;
+  margin-left: -20px;
+}
+#navbar{
+  display: flex;
+  align-items: center;
+}
+
+ul{
+  border-bottom: black;
+  border-bottom-width: 1px;
+}
+
+.shadow{
+  background-color: darkblue;
+  text-decoration-line: none;
+  margin: 0.16em;
+  padding:0.64em;
+  color:whitesmoke;
+}
+
+li{
+  margin-right: 10px;
+  margin-left: 10px;
+  list-style-type: none;
+}
+
+a:link{
+  color:whitesmoke;
+  text-decoration: none;
+}
+a:visited{
+  color:whitesmoke;
+  text-decoration: none;
+}
+a:hover{
+  color:whitesmoke;
+  text-decoration: none;
+}
+a:active{
+  color:whitesmoke;
+  text-decoration: none;
+}
